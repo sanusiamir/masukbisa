@@ -1,0 +1,6 @@
+streamlit>=1.38,<2
+pandas>=2.0,<3
+numpy>=1.26,<2
+scikit-learn>=1.4,<2
+tensorflow==2.20.*
+torch
